@@ -1475,7 +1475,7 @@ textarea {
 }
 
 #sticky_header .site_navigation .navigation_area>.mainmenu_area .mainmenu>li>a.active {
-    color: #424242;
+    color: yellow;
 }
 
 #sticky_header .site_navigation .navigation_area>.mainmenu_area .mainmenu>li>a.active:before {
